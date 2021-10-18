@@ -17,8 +17,8 @@
  */
 
 body {
-  background-image: url(https://64.media.tumblr.com/b03d59a359c40199d8e0faa5ce741472/91843586d1b64884-dc/s1280x1920/5011c81196ab29763246fed410d99f09cfe0ab2e.jpg);
-  background-repeat: no-repeat;
+  /* background-image: url(https://64.media.tumblr.com/b03d59a359c40199d8e0faa5ce741472/91843586d1b64884-dc/s1280x1920/5011c81196ab29763246fed410d99f09cfe0ab2e.jpg);
+  background-repeat: no-repeat; */
   text-shadow: 0 .05rem .1rem rgba(0, 0, 0, .5);
   box-shadow: inset 0 0 5rem rgba(0, 0, 0, .5);
 }
